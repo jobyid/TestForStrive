@@ -3,7 +3,7 @@ print("Hello code Strive")
 print(" Hellow git hub")
 for x in range(1,6):
     print("How many commits {}".format(x))
-
+#day 4 exercise 5.3
 # Print multiplication table
 import pandas as pd
 from IPython.display import display
