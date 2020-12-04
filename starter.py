@@ -1,6 +1,6 @@
 #Starter file for the code
 print("Hello code Strive")
-
+print(" Hellow git hub")
 for x in range(1,6):
     print("How many commits {}".format(x))
 
